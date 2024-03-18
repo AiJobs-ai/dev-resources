@@ -1,0 +1,7 @@
+  {
+        name: 'AI Jobs',
+        categories: ['AI'],
+        description: 'A curated list of the best AI jobs for developers, designers and marketers.',
+        url: 'https://www.aijobs.ai/',
+        keywords: ['ai', 'ml', 'artificial intelligence', 'machine learning', 'jobs', 'jobs board']
+    }
